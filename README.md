@@ -28,7 +28,7 @@ Repositório de arquivos relacionados com a redação do ENEM. Aqui você vai en
 
 # Proposta de intervenção
 
-A Proposta de intervenção é o conjunto de argumentos que você precisa apresentar na redação a fim de resolver, propor melhorias ou ao menos lidar com a situação do tema.
+A Proposta de intervenção é o conjunto de argumentos que você precisa apresentar na redação a fim de resolver, propor melhorias ou ao menos lidar com a situação do tema proposto na introdução e desenvolvido nas áreas de desenvolvimento da argumentação.
 
 ![image](https://user-images.githubusercontent.com/62342894/162253665-24eb57df-1ebb-4203-bf71-ceed3c109162.png)
 
