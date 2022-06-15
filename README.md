@@ -3,7 +3,7 @@
 Repositório de arquivos relacionados com a redação do ENEM. Aqui você vai encontrar: 
 
 - Redações exemplares
-- Modelores de redação
+- Modelos de redação
 - Padrões para a redação (Conectivos, Estrutura e operadores argumentativos)
 - Dados para redação
 - Citações
